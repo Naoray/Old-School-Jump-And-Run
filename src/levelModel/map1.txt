@@ -1,0 +1,21 @@
+! Kilobolt Studios
+! http://kilobolt.com
+! Game Development Tutorial - Unit 3
+! Q-Bot Level 1
+! h = Heliboy
+! 1 = tile_grass_top; 2 = tile_grass_bot; 3 = tile_grass_right; 4 = tile_grass_left; 5 = tile_dirt
+! e = levenend
+! p = playerStart
+   
+                                 
+3   
+3          
+3
+3
+3     
+3  p        
+3          11                                                                       e 
+3         111111    h                         1        1                  411111111111
+3      11111   1111111      h      111     111   h         11111          45
+111111111             11111111111111111111111111111111111111111111111111111
+background=background.png
